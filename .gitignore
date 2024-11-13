@@ -1,0 +1,6 @@
+# Ignore dependency directories
+data/
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
